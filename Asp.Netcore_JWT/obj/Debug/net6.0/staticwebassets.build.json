@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3sA76XQOckXtTbK4DlThGNwHXnd0F4FjORanGDAXu7E=",
+  "Source": "Asp.Netcore_JWT",
+  "BasePath": "_content/Asp.Netcore_JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
