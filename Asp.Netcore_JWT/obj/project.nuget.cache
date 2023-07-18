@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ViWHyYzw72292kxAAiLRGIuPDS2AemfYm1r+aT/HvPc5DScPqR9lXeoXRDsOhYkNq2kmEKraXZhKPjYgbraH2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert\\Source\\Repos\\Aspnetcore_JWT\\Asp.Netcore_JWT\\Asp.Netcore_JWT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Mert\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
