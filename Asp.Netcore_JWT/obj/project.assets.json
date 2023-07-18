@@ -231,11 +231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\Source\\Repos\\Aspnetcore_JWT\\Asp.Netcore_JWT\\Asp.Netcore_JWT.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\Desktop\\Aspnetcore_JWT\\Asp.Netcore_JWT\\Asp.Netcore_JWT.csproj",
       "projectName": "Asp.Netcore_JWT",
-      "projectPath": "C:\\Users\\Mert\\Source\\Repos\\Aspnetcore_JWT\\Asp.Netcore_JWT\\Asp.Netcore_JWT.csproj",
+      "projectPath": "C:\\Users\\Mert\\Desktop\\Aspnetcore_JWT\\Asp.Netcore_JWT\\Asp.Netcore_JWT.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mert\\Source\\Repos\\Aspnetcore_JWT\\Asp.Netcore_JWT\\obj\\",
+      "outputPath": "C:\\Users\\Mert\\Desktop\\Aspnetcore_JWT\\Asp.Netcore_JWT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
